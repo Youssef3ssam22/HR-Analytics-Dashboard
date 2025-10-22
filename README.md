@@ -34,10 +34,7 @@ The dashboard enables HR professionals to quickly identify workforce patterns, o
 - Clone or download the repository.  
 - Open the `.pbix` file in Power BI Desktop.  
 - Load the Excel dataset if prompted.  
-- Interact with the dashboard visuals and filters.
-
-## Preview
-![HR Dashboard Preview](Dashboard_Preview.png)
+- Interact with the dashboard visuals and filters
 
 ---
 
