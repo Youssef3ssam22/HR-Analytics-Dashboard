@@ -29,7 +29,7 @@ The aim of this project is to explore and present actionable insights into emplo
 
 ## Insights Delivered
 The dashboard enables HR professionals to quickly identify workforce patterns, optimize employee performance evaluation, and enhance strategic planning through data-driven insights.
-
+Linkedin Project post:https://www.linkedin.com/posts/youssefesam_dataanalytics-powerbi-hranalytics-activity-7378877045449154560-JMIK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6jzqYBvfeqSY43BQUNb0qAuZquLkoHez8
 ## How to Use
 - Clone or download the repository.  
 - Open the `.pbix` file in Power BI Desktop.  
